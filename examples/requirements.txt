@@ -2,7 +2,7 @@
 livekit-agents>1.0.23
 
 # Faseeh TTS Plugin
-livekit-plugins-faseeh>=0.1.0
+livekit-plugins-faseeh>=0.1.5
 
 # STT Providers
 livekit-plugins-deepgram
